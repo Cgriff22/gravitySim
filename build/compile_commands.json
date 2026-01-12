@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/carter-griffin/cpp/build",
+  "command": "/usr/bin/c++  -I/home/carter-griffin/cpp/external/glad/include -g -std=gnu++17 -o CMakeFiles/grav.dir/main.cpp.o -c /home/carter-griffin/cpp/main.cpp",
+  "file": "/home/carter-griffin/cpp/main.cpp",
+  "output": "CMakeFiles/grav.dir/main.cpp.o"
+},
+{
+  "directory": "/home/carter-griffin/cpp/build",
+  "command": "/usr/bin/cc  -I/home/carter-griffin/cpp/external/glad/include -g -o CMakeFiles/grav.dir/external/glad/src/glad.c.o -c /home/carter-griffin/cpp/external/glad/src/glad.c",
+  "file": "/home/carter-griffin/cpp/external/glad/src/glad.c",
+  "output": "CMakeFiles/grav.dir/external/glad/src/glad.c.o"
+}
+]
